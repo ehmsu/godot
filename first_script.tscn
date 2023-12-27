@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://bqx3cesr1pr1o"]
+
+[ext_resource type="Texture2D" uid="uid://cq7yy7cspa0v2" path="res://Toothless-Dragon.png" id="1_asgtc"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_e8g5o"]
+
+[node name="Game" type="Node"]
+
+[node name="Player" type="CharacterBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player"]
+shape = SubResource("CircleShape2D_e8g5o")
+
+[node name="Toothless" type="Sprite2D" parent="Player"]
+position = Vector2(704, 588)
+texture = ExtResource("1_asgtc")
