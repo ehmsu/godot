@@ -1,7 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1703679183
+::res://::1703865422
 first_script.tscn::PackedScene::3558626756337901950::1703646255::0::1::::<><>::res://Player.cs<>uid://cq7yy7cspa0v2::::res://Toothless-Dragon.png
 icon.svg::CompressedTexture2D::839446315729272581::1703617663::1703617691::1::::<><>::
-Player.cs::CSharpScript::-1::1703646370::0::1::::<><>::
+Player.cs::CSharpScript::-1::1703708426::0::1::::<><>::
 README.md::TextFile::-1::1701830397::0::1::::<><>::
 Toothless-Dragon.png::CompressedTexture2D::5963424705279471481::1703645163::1703645188::1::::<><>::
